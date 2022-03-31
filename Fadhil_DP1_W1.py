@@ -15,5 +15,7 @@ print("Syder is laggy")
 print("github")
 
 
-print("github sucks")
+print("vini vidi vici")
 
+
+print("Je suis Petrus")
